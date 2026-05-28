@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:"$Sreact.suspense"
+3:I[120,["8500","static/chunks/8500-3953cc33eeceb44e.js","9020","static/chunks/app/demos/beauty-booking/book/page-75491d00d39c8aae.js"],"BeautyBookingBookClient"]
+4:I[484,[],"OutletBoundary"]
+0:{"rsc":["$","$1","c",{"children":[["$","$2",null,{"children":["$","$L3",null,{}]}],null,["$","$L4",null,{"children":["$","$2",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ymfGPlmaWWl_rmLeeBisH"}
+5:null

@@ -1,0 +1,8 @@
+1:"$Sreact.fragment"
+2:I[7385,["8500","static/chunks/8500-3953cc33eeceb44e.js","7177","static/chunks/app/layout-5ea6624f549feb9a.js"],"AnalyticsProvider"]
+3:I[6119,["8500","static/chunks/8500-3953cc33eeceb44e.js","7177","static/chunks/app/layout-5ea6624f549feb9a.js"],"Header"]
+4:I[7121,[],""]
+5:I[4581,[],""]
+6:I[7694,["8500","static/chunks/8500-3953cc33eeceb44e.js","7177","static/chunks/app/layout-5ea6624f549feb9a.js"],"Footer"]
+:HL["/_next/static/css/5daa2331dc4f15d3.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/5daa2331dc4f15d3.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","className":"__variable_246ccd __variable_4c40f6 h-full antialiased","children":["$","body",null,{"className":"flex min-h-full flex-col","children":["$","$L2",null,{"children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]}],["$","$L6",null,{}]]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ymfGPlmaWWl_rmLeeBisH"}
