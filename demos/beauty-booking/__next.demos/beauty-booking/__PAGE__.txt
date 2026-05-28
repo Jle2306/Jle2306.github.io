@@ -2,5 +2,5 @@
 2:I[2407,["8500","static/chunks/8500-3953cc33eeceb44e.js","8437","static/chunks/8437-d53f465530303ea5.js","2540","static/chunks/app/demos/beauty-booking/page-a09fdbee9b89d2d7.js"],"BeautyBookingClient"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ymfGPlmaWWl_rmLeeBisH"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ykESKZy5wUgYb9wV70B9j"}
 5:null
